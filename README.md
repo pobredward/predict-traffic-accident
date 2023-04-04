@@ -14,6 +14,10 @@ https://nbviewer.jupyter.org/github/AIdward/predict-traffic-accident/blob/5dae19
 
 https://github.com/AIdward/predict-traffic-accident/raw/master/presentation.pdf
 
+![https://raw.githubusercontent.com/AIdward/predict-traffic-accident/master/src/thu1.PNG](https://raw.githubusercontent.com/AIdward/predict-traffic-accident/master/src/thu1.PNG)
+
+![https://raw.githubusercontent.com/AIdward/predict-traffic-accident/master/src/thu2.PNG](https://raw.githubusercontent.com/AIdward/predict-traffic-accident/master/src/thu2.PNG)
+
 
 ### **해결 과제**
 
