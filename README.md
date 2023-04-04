@@ -6,19 +6,6 @@
 https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2012_001
 
 
-### 분석 코드
-
-https://nbviewer.jupyter.org/github/AIdward/predict-traffic-accident/blob/5dae19925ae9e046c66d2ea46ab3c10fbeace9bb/code.ipynb
-
-### 발표 자료
-
-https://github.com/AIdward/predict-traffic-accident/raw/master/presentation.pdf
-
-![https://github.com/pobredward/predict-traffic-accident/blob/main/src/thu1.png](https://github.com/pobredward/predict-traffic-accident/blob/main/src/thu1.png)
-
-![https://github.com/pobredward/predict-traffic-accident/blob/main/src/thu2.png](https://github.com/pobredward/predict-traffic-accident/blob/main/src/thu2.png)
-
-
 ### **해결 과제**
 
 - 어린이 보호구역 외 어린이 교통사고 위험지역 20개소 제시
@@ -35,3 +22,15 @@ https://github.com/AIdward/predict-traffic-accident/raw/master/presentation.pdf
 ### **데이터 협력기관**
 
 - SK Telecom, 한국교통연구원
+
+### 분석 코드
+
+https://nbviewer.jupyter.org/github/AIdward/predict-traffic-accident/blob/5dae19925ae9e046c66d2ea46ab3c10fbeace9bb/code.ipynb
+
+### 발표 자료
+
+https://github.com/AIdward/predict-traffic-accident/raw/master/presentation.pdf
+
+![https://github.com/pobredward/predict-traffic-accident/blob/main/src/thu1.png](https://github.com/pobredward/predict-traffic-accident/blob/main/src/thu1.png)
+
+![https://github.com/pobredward/predict-traffic-accident/blob/main/src/thu2.png](https://github.com/pobredward/predict-traffic-accident/blob/main/src/thu2.png)
